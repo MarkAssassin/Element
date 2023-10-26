@@ -1,6 +1,7 @@
 #淘宝网络爬虫.py
 import requests
 import re
+#
 
 def getHTMLText(url):
     try:
